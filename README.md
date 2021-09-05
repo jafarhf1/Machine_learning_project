@@ -1,2 +1,2 @@
 # Machine_learning_project
-These are projects that use machine learning algorithm with python libraries
+These are some projects that use different types of machine learning algorithms with python libraries
